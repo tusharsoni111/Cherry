@@ -16,8 +16,8 @@ const Surprise = () => {
     "Play Music",
     "Decorate",
     "Fly the Balloons",
-    "Let's Cut the Cake Madam Ji",
-    "Well, I Have a Message for You Madam Ji"
+    "Tap to see The girl Behind Sahiba theme",
+    "Well, I Have a Message for You"
   ];
 
   const handleClick = () => {
